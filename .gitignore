@@ -1,0 +1,15 @@
+node_modules/
+uploads/*
+!uploads/.gitkeep
+.env
+.env.local
+.env.production
+.env.development
+.DS_Store
+npm-debug.log*
+*.log
+coverage/
+.db
+*.sqlite
+*.sqlite3
+
